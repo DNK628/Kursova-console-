@@ -14,7 +14,7 @@ class Program
         bool running = true;
         while (running)
         {
-            Console.WriteLine("\n=== МЕНЮ ===");
+            Console.WriteLine("\n  МЕНЮ");
             Console.WriteLine("1. Перегляд всіх ігор");
             Console.WriteLine("2. Додати гру");
             Console.WriteLine("3. Видалити гру");
