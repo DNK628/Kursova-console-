@@ -1,0 +1,3 @@
+PC;Action;Call of Duty;Activision;Windows;1500
+ONLINE;MMORPG;World of Warcraft;Blizzard;Windows;10000;600
+PC;Strategy;Civilization VI;2K;Windows;950

@@ -1,0 +1,4 @@
+﻿PC;Action;Call of Duty;Activision;Windows;1500
+ONLINE;MMORPG;World of Warcraft;Blizzard;Windows;10000;600
+PC;Аction;MGS V:THE PHANTOM PAIN;Konami;Windows;537
+ONLINE;Shooter;Counter Strike 2;Valve;Windows;50000;0
